@@ -12,9 +12,6 @@ Hi there! 👋 I'm yashu raj gupta, a passionate developer with a love for build
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Codex-Naman&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Codex-Naman&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Codex-Naman&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Codex-Naman&icon=0&color=0)](https://visitcount.itsvg.in)
 
